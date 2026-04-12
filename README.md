@@ -12,9 +12,6 @@ This repository contains a precompiled, ready-to-use version of the application.
 | File | Description |
 |------|-------------|
 | `ConsoleApp2.exe` | Main executable file |
-| `ConsoleApp2.dll` | Core application library |
-| `ConsoleApp2.deps.json` | Dependency manifest |
-| `ConsoleApp2.runtimeconfig.json` | .NET runtime configuration |
 | `Ultra Windows Diagnostic Tool (Safe).cmd` | Batch script for safe execution (recommended) |
 
 ## 🚀 How to Run
@@ -26,7 +23,7 @@ This repository contains a precompiled, ready-to-use version of the application.
 Double-click `Ultra Windows Diagnostic Tool (Safe).cmd`
 
 **Alternative method:**  
-Run `ConsoleApp2.exe` directly from the command line or File Explorer.
+Run `Ultra Windows Diagnostic Tool (Safe).exe` directly from the command line or File Explorer.
 
 > ⚠️ **Note:** The batch file ensures proper environment settings and helps avoid potential execution issues.
 
@@ -69,9 +66,6 @@ Rus:
 | Файл | Описание |
 |------|---------|
 | `ConsoleApp2.exe` | Исполняемый файл программы |
-| `ConsoleApp2.dll` | Основная библиотека приложения |
-| `ConsoleApp2.deps.json` | Файл зависимостей |
-| `ConsoleApp2.runtimeconfig.json` | Конфигурация среды выполнения .NET |
 | `Ultra Windows Diagnostic Tool (Safe).cmd` | Командный файл для безопасного запуска (рекомендуется) |
 
 ## 🚀 Запуск программы
@@ -83,7 +77,7 @@ Rus:
 Дважды кликните по файлу `Ultra Windows Diagnostic Tool (Safe).cmd`
 
 **Альтернативный способ:**  
-Запустите `ConsoleApp2.exe` напрямую из проводника или командной строки.
+Запустите `Ultra Windows Diagnostic Tool (Safe).exe` напрямую из проводника или командной строки.
 
 > ⚠️ **Примечание:** Командный файл обеспечивает корректную настройку окружения и помогает избежать возможных проблем при запуске.
 
