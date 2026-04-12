@@ -11,7 +11,7 @@ This repository contains a precompiled, ready-to-use version of the application.
 
 | File | Description |
 |------|-------------|
-| `ConsoleApp2.exe` | Main executable file |
+| `Ultra Windows Diagnostic Tool (Safe).exe` | Main executable file |
 | `Ultra Windows Diagnostic Tool (Safe).cmd` | Batch script for safe execution (recommended) |
 
 ## 🚀 How to Run
@@ -65,7 +65,7 @@ Rus:
 
 | Файл | Описание |
 |------|---------|
-| `ConsoleApp2.exe` | Исполняемый файл программы |
+| `Ultra Windows Diagnostic Tool (Safe).exe` | Исполняемый файл программы |
 | `Ultra Windows Diagnostic Tool (Safe).cmd` | Командный файл для безопасного запуска (рекомендуется) |
 
 ## 🚀 Запуск программы
